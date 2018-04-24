@@ -1,2 +1,2 @@
-# spring-showcase
-A series of applications to trial various aspects of Spring
+# spring-boot-showcase
+An application to trial various aspects of Spring Boot
